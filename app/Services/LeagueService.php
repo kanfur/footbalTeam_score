@@ -104,7 +104,7 @@ class LeagueService
         return true;
     }
     private function getGoalsForTeam($home_team,$away_team){
-        /** Calculating Scores with their powers**/
+        /** Calculating Scores with their powers **/
         //Goal Power
         //Keeper Power
         $helper = new Functions();
