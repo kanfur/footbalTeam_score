@@ -1,9 +1,9 @@
-// Takımlar için goal_power ve keeper_power güçleri tanımlandı. Dilediğimde yeni güçler atayabiliyorum
+// Goal_power and keeper_power powers are defined for teams. I can assign new powers whenever I want.
 
-// Score tablosu bu powerlara göre şekilleniyor. 
+// Score table is shaped according to these powers.
 
-// Takım yaratma seeder içine eklendi. 
+// Team creation added in seeder.
 
-// Anasayfa fixture create ettikten sonra forward butonu ile haftalık fixture arasında gezebiliyorum
+// After creating the home fixture, I can navigate between the weekly fixture with the forward button
 
-// Play butonu ile o haftanın fiksturunu oynatabiliyorum
+// I can play that week's fixture with the play button
