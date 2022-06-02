@@ -7,3 +7,6 @@
 // After creating the home fixture, I can navigate between the weekly fixture with the forward button
 
 // I can play that week's fixture with the play button
+
+
+For instructions, you can look into Project.pdf file.
