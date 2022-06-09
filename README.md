@@ -1,12 +1,12 @@
-// Goal_power and keeper_power powers are defined for teams. I can assign new powers whenever I want.
 
-// Score table is shaped according to these powers.
+# For instructions, you can look into Project.pdf file.
 
-// Team creation added in seeder.
+- Goal_power and keeper_power powers are defined for teams. I can assign new powers whenever I want.
 
-// After creating the home fixture, I can navigate between the weekly fixture with the forward button
+- Score table is shaped according to these powers.
 
-// I can play that week's fixture with the play button
+- Team creation added in seeder.
 
+- After creating the home fixture, I can navigate between the weekly fixture with the forward button
 
-For instructions, you can look into Project.pdf file.
+- I can play that week's fixture with the play button
